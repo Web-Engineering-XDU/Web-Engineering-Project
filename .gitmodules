@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Web-Engineering-XDU/Project-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Web-Engineering-XDU/Project-Frontend.git
