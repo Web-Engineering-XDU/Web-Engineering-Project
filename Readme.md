@@ -10,8 +10,11 @@
 ## Event
 Agent间通讯的数据结构
 
-# 用户需求描述
+# 用户需求概述
 
 - 用户可以CRUD Agent
+    - 用户可以在编辑Agent时进行简单debug（dry run，合法性验证等）
 - 用户可以方便地查看和管理workflow
-- 用户可以查看系统实时运行状态
+    - workflow可视化
+- 用户可以查看系统实时状态
+    - 查看产生的Event列表和详情
